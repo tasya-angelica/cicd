@@ -6,9 +6,9 @@ on:
   workflow_dispatch:
     inputs:
       nama_siswa:
-        description: 'tasya angelica putri'
+        description: 'isi nama kamu'
         required: true
-        default: 'siswa tjkt'
+        default: 'tasya angelica'
 
 jobs:
   test:
